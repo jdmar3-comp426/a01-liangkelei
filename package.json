@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a01-liangkelei/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a01-liangkelei#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a01-liangkelei#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
 }
